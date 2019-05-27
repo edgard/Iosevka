@@ -1,0 +1,3 @@
+[buildPlans.iosevka-custom]                         # <iosevka-custom> is your plan name
+family = "Iosevka Custom"                           # Font menu family name
+design = ['term', 'leading-1100', 'v-at-long', 'v-dollar-open', 'v-percent-dots', 'v-a-doublestorey', 'v-brace-straight', 'v-g-singlestorey', 'v-l-serifed', 'v-i-serifed', 'v-asterisk-low']
